@@ -1,2 +1,1 @@
-# hub
-SMA general hub
+# Space Marine Augmented Hub
