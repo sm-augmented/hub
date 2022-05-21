@@ -1,7 +1,5 @@
 # Space Marine Augmented Hub
 
-Space Marine Augmented main documentation, discussion, planning and task tracking hub
-
 Categories:
 - [Task tracking](https://github.com/sm-augmented/hub/issues)
 - [Planning milestones](https://github.com/sm-augmented/hub/milestones)
