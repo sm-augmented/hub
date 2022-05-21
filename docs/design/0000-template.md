@@ -1,10 +1,10 @@
 ---
-Creation Date:
-RFC PR: 
-RFC Issue:
+Creation date:
+Design doc PR: 
+Design doc Issue:
 ---
 
-# <RFC title>
+# <Design doc title>
 
 ## Summary
 
@@ -16,13 +16,22 @@ RFC Issue:
 
 ## Detailed design
 
-> This is the bulk of the RFC.
+> This is the bulk of the design document.
 
 > Explain the design in enough detail for somebody
 familiar to the design to understand, and for somebody familiar with the
-implementation to implement. This should get into specifics and corner-cases,
-and include examples of how the feature is used. Any new terminology should be
-defined here.
+implementation to implement. This should get into specifics, mechanics and corner-cases,
+and include examples of how the feature/change/addition/etc is used. Any new terminology should be
+defined here. 
+
+### Role
+
+> What is the expected role of the feature/change/addition/etc 
+within its category (e.g. weapon, perk, class, etc) and in overall picture?
+
+### Stats
+
+> Stat tables TODO
 
 ## Drawbacks
 
@@ -32,7 +41,7 @@ defined here.
 
 ## Alternatives
 
-> What other designs have been considered? What is the impact of not doing this?
+> What other designs/mechanics/stats/etc have been considered? What is the impact of not doing this?
 
 > This section could also include prior art, that is, how other sources in the same domain have solved this problem.
 
