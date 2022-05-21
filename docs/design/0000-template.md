@@ -33,6 +33,10 @@ within its category (e.g. weapon, perk, class, etc) and in overall picture?
 
 > Stat tables TODO
 
+### Ingame depiction
+
+> Namings, descriptions, icons, customizer stats, etc.
+
 ## Drawbacks
 
 > Why should we *not* do this?
