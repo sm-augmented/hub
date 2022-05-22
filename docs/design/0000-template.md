@@ -21,21 +21,22 @@ Design doc Issue:
 > Explain the design in enough detail for somebody
 familiar to the design to understand, and for somebody familiar with the
 implementation to implement. This should get into specifics, mechanics and corner-cases,
-and include examples of how the feature/change/addition/etc is used. Any new terminology should be
-defined here. 
+and include examples of how the feature/change/addition/etc is used. Any new terminology should be defined here. 
 
 ### Role
+
+- Make role registry (as a separate special document?)
 
 > What is the expected role of the feature/change/addition/etc 
 within its category (e.g. weapon, perk, class, etc) and in overall picture?
 
 ### Stats
 
-> Stat tables TODO
+> Stat definitions, based on [template](./0000-stats-template.md).
 
 ### Ingame depiction
 
-> Namings, descriptions, icons, customizer stats, etc.
+> Namings, descriptions, icons, models, upgrades, customizer stats, etc.
 
 ## Drawbacks
 
